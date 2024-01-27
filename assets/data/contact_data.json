@@ -8,7 +8,7 @@
         "lastName": "Doe",
         "DOB": "1990-01-15",
         "phone": "+1234567890",
-        "imagePath": "assets/images/user/John.png"
+        "imagePath": "assets/images/user/John.jpg"
       },
       {
         "id": 2,
