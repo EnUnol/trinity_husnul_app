@@ -129,17 +129,15 @@ class HomePage extends StatelessWidget {
         height: 200.0,
         width: 170.0, // Adjust the height to achieve a 3:4 ratio
         child: Column(
-          crossAxisAlignment: CrossAxisAlignment.stretch,
+          crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Expanded(
-              child: ClipRRect(
-                borderRadius: BorderRadius.only(
-                  topLeft: Radius.circular(8.0),
-                  topRight: Radius.circular(8.0),
-                ),
+              child: ClipOval(
                 child: Image.asset(
                   imagePath,
                   fit: BoxFit.cover,
+                  width: 100,
+                  height: 100,
                 ),
               ),
             ),
