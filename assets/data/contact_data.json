@@ -1,0 +1,85 @@
+{
+    "contact": [
+      {
+        "id": 1,
+        "username": "John",
+        "email": "John@trinitywizards.com",
+        "firstName": "John",
+        "lastName": "Doe",
+        "DOB": "1990-01-15",
+        "phone": "+1234567890",
+        "imagePath": "assets/images/user/John.png"
+      },
+      {
+        "id": 2,
+        "username": "Jane",
+        "email": "Jane@trinitywizards.com",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "DOB": "1985-08-22",
+        "phone": "+9876543210",
+        "imagePath": "assets/images/user/Jane.png"
+      },
+      {
+        "id": 3,
+        "username": "Bob",
+        "email": "Bob@trinitywizards.com",
+        "firstName": "Bob",
+        "lastName": "Johnson",
+        "DOB": "1972-03-10",
+        "phone": "+1122334455",
+        "imagePath": "assets/images/user/Bob.png"
+      },
+      {
+        "id": 4,
+        "username": "Alice",
+        "email": "Alice@trinitywizards.com",
+        "firstName": "Alice",
+        "lastName": "Williams",
+        "DOB": "1988-11-03",
+        "phone": "+9988776655",
+        "imagePath": "assets/images/user/Alice.png"
+      },
+      {
+        "id": 5,
+        "username": "Charlie",
+        "email": "Charlie@trinitywizards.com",
+        "firstName": "Charlie",
+        "lastName": "Brown",
+        "DOB": "1995-06-18",
+        "phone": "+1123456789",
+        "imagePath": "assets/images/user/Charlie.png"
+      },
+      {
+        "id": 6,
+        "username": "Eva",
+        "email": "Eva@trinitywizards.com",
+        "firstName": "Eva",
+        "lastName": "Davis",
+        "DOB": "1980-09-27",
+        "phone": "+8765432109",
+        "imagePath": "assets/images/user/Eva.png"
+      },
+      {
+        "id": 7,
+        "username": "Frank",
+        "email": "Frank@trinitywizards.com",
+        "firstName": "Frank",
+        "lastName": "Martinez",
+        "DOB": "1978-05-05",
+        "phone": "+1122337788",
+        "imagePath": "assets/images/user/Frank.png"
+      },
+      {
+        "id": 8,
+        "username": "Grace",
+        "email": "Grace@trinitywizards.com",
+        "firstName": "Grace",
+        "lastName": "Taylor",
+        "DOB": "1993-12-12",
+        "phone": "+9988771122",
+        "imagePath": "assets/images/user/Grace.png"
+      }
+    ]
+  }
+  
